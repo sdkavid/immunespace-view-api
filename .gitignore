@@ -1,0 +1,6 @@
+config/*
+!config/examplekeys.json
+*.env
+*.log
+*.pyc
+*.idea
